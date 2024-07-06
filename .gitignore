@@ -1,2 +1,5 @@
 /Archive.zip
 /data_plot_matlab.zip
+*.slxc
+slprj
+ampc_cstr_no_estimation.slxc
